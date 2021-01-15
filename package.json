@@ -1,0 +1,15 @@
+{
+  "name": "[name]",
+  "version": "1.0.0",
+  "description": "[description]",
+  "main": "dist/index.js",
+  "repository": "git@github.com:ecosia/[repositoryName].git",
+  "author": "Ecosia GmbH <opensource@ecosia.org>",
+  "contributors": [],
+  "keywords": [],
+  "license": "SEE LICENSE IN 'LICENSE'",
+  "private": true,
+  "engines": {
+    "node": "^14.15.1"
+  }
+}
