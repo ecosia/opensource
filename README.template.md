@@ -4,4 +4,4 @@
 
 ## License
 
-[Do No Harm](./LICENSE)
+[MIT](./LICENSE)
